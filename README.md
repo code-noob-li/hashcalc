@@ -1,6 +1,6 @@
 # HashCalc — 文件哈希计算器
 
-- 懒得敲cmd代码，让AI弄得软件，只适用WINDOWS平台
+- 懒得敲cmd命令，让AI弄得软件，主要适用WINDOWS平台，其他平台可能敲命令校验哈希都比打开软件快😄
 - 一个基于 Python + PySide6 的图形化文件哈希计算工具，支持拖放操作、10 种哈希算法、多选并行计算。
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
